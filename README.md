@@ -36,9 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [1189-maximum-number-of-balloons](https://github.com/Prsh0502/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Prsh0502/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
