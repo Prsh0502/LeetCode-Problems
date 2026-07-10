@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0018-4sum) |
 | [1288-remove-covered-intervals](https://github.com/Prsh0502/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Prsh0502/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prsh0502/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0018-4sum) |
 | [1288-remove-covered-intervals](https://github.com/Prsh0502/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prsh0502/LeetCode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0018-4sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prsh0502/LeetCode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
