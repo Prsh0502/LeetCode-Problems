@@ -1,7 +1,30 @@
 class Solution {
     public boolean repeatedSubstringPattern(String s) {
-        String doubled = s + s;
+        int n = s.length();
 
-        return doubled.substring(1, doubled.length() - 1).contains(s);
+        for (int len = 1; len <= n / 2; len++) {
+
+            // Substring length must divide
+            // the complete string length
+            if (n % len != 0) {
+                continue;
+            }
+
+            boolean valid = true;
+
+            // Compare with the first substring
+            for (int i = len; i < n; i++) {
+                if (s.charAt(i) != s.charAt(i % len)) {
+                    valid = false;
+                    break;
+                }
+            }
+
+            if (valid) {
+                return true;
+            }
+        }
+
+        return false;
     }
 }
