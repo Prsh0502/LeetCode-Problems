@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0018-4sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Prsh0502/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Prsh0502/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prsh0502/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
