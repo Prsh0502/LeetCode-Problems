@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prsh0502/LeetCode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prsh0502/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -174,14 +176,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 ## Sliding Window
 |  |
@@ -191,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
