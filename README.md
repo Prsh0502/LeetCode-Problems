@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prsh0502/LeetCode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prsh0502/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
