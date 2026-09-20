@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [1046-last-stone-weight](https://github.com/Prsh0502/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/Prsh0502/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Prsh0502/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Prsh0502/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -209,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Prsh0502/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Prsh0502/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
